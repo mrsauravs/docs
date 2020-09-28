@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Inverse Lattice Help](README.md)
+* [Inverse Lattice](README.md)
+* [Mozilla Firefox Tweaks](mozilla-firefox-tweaks.md)
 
