@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Inverse Lattice](README.md)
+* [Docs](README.md)
 * [Tweaks](tweaks/README.md)
   * [DNS-over-HTTPS in Mozilla Firefox](tweaks/mozilla-firefox-tweaks.md)
 * [How To](how-to/README.md)
