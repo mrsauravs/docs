@@ -4,9 +4,9 @@ description: >-
   Server for set up. Use ownCloud Desktop Client for usage.
 ---
 
-# Set up OwnCloud
+# Set up ownCloud
 
-### ownCloud X Server Installation
+### ownCloud X Server Installation <a id="owncloud-x-server-installation"></a>
 
 1. Go to the [ownCloud](https://owncloud.com/download/) installation page.
 2. Sign up and download the ownCloud OVA file.
@@ -15,7 +15,7 @@ description: >-
 5. \(Optional\) Modify the default settings.
 6. Accept the software license and click **Import**.
 
-### ownCloud X Server Configuration
+### ownCloud X Server Configuration <a id="owncloud-x-server-configuration"></a>
 
 1. Open Oracle VM VirtualBox and start the ownCloud installed appliance.
 
@@ -43,26 +43,28 @@ description: >-
 12. To receive the license file, add your email address.
 13. Upload the received license file and complete the activation.
 
-### User Account
+### User Account <a id="user-account"></a>
 
-1. Go to the [ownCloud server univention portal](https://192.168.0.102) page.
+1. Go to the [ownCloud server univention portal](https://192.168.0.102/) page.
 2. Navigate to **Administration &gt; System and domain settings &gt; Users &gt; ADD** and enter new user details.
 
    **Tip**: To ensure that users create their own password, choose **User has to change password on next login**.
 
 3. Click **CREATE USER**.
 
-### ownCloud Desktop Client Setup
+### ownCloud Desktop Client Setup <a id="owncloud-desktop-client-setup"></a>
 
 1. Go to the [ownCloud](https://owncloud.com/download/) installation page.
 2. Navigate to **ownCloud Desktop Clients &gt; ownCloud Linux Client** and download the desktop client.
 3. Select an operating system and follow the instructions.
 4. After the installation, open the client.
-5. Enter the ownCloud server address that you received from your administrator. 
+5. Enter the ownCloud server address that you received from your administrator.
 
    **Note**: Append **/owncloud** after the server IP address.
 
 6. Trust the certificate and enter the user account credentials.
 7. Setup and synchronize the local folder with the server.
 8. Click **Connect**.
+
+
 
