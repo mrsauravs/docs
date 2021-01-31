@@ -1,6 +1,8 @@
+---
+description: Configure for secure browsing experience.
+---
+
 # DNS-over-HTTPS in Mozilla Firefox
-
-
 
 ## **Preferences Menu** <a id="preferences-menu"></a>
 
